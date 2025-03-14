@@ -26,5 +26,13 @@ let lengthThree; // Length of stringThree
 
 // Your code here
 
+let stringOne = "Coding Bootcamp";
+let stringTwo = "JavaScript";
+let stringThree = "";
+
+// Using .length property
+let lengthOne = stringOne.length;   // Length of "Coding Bootcamp"
+let lengthTwo = stringTwo.length;   // Length of "JavaScript"
+let lengthThree = stringThree.length; // Length of the empty string
 
 
